@@ -5,6 +5,6 @@
 #### However, the investigation of the correctness of the PPG was important because the PPG cannot reconstruct a complete signal sometimes. As a result, it may cause loss of data sometimes.
 
 #### My job in the lab was to write a report on the watch's capabilities, collect data, plot data, and combine all the work to write a final report.
-#### More detail is on my research paper. 
+#### The detail is on my research paper. 
 
 
